@@ -1,0 +1,1 @@
+room_goto(Cutscene_Thanks);

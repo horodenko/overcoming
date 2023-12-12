@@ -1,0 +1,2 @@
+straightLaserBeam = noone;
+downwardsLaserBeam = noone;

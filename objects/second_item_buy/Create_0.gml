@@ -1,0 +1,1 @@
+global.clickedSecond = false;

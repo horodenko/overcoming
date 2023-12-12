@@ -1,0 +1,1 @@
+if (instance_exists(obj_enemy_parent))	obj_enemy_parent.wasHitByHugeOrb = false;
