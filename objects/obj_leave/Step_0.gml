@@ -1,0 +1,1 @@
+if (!audio_is_playing(snd_credits)) audio_play_sound(snd_credits, 1, true);

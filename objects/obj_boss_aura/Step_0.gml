@@ -1,0 +1,1 @@
+if (obj_boss.state = obj_boss.state_dead) instance_destroy(obj_boss_aura);
