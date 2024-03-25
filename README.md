@@ -5,5 +5,4 @@ Link to the game: https://play.google.com/store/apps/details?id=com.company.over
 
 **NOTES**
 
-- All art is 100% original work;
-- Had some inconsistencies when editing description of game on PlayStore: it is not rogue-like, but metroidvania.
+- All art is 100% original work.
