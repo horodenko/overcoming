@@ -1,7 +1,7 @@
 # Overcoming
 A game developed using GameMaker for coding and Aseprite for the art, published on PlayStore.
 
-Link to game: https://play.google.com/store/apps/details?id=com.company.overcoming
+Link to the game: https://play.google.com/store/apps/details?id=com.company.overcoming
 
 **NOTES**
 
